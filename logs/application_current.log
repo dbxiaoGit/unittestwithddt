@@ -1,0 +1,20 @@
+2017-12-21 15:50:30,218 TestJson.py test_add1 [line:20] INFO test_add1 p1:3,p2:4,p3:7
+2017-12-21 15:50:30,218 Calc.py __init__ [line:12] INFO Calc init 
+2017-12-21 15:50:30,218 Calc.py add [line:16] INFO excute add 
+2017-12-21 15:50:30,218 Calc.py add [line:17] INFO param1:3,param2:4
+2017-12-21 15:50:30,218 TestJson.py test_add1 [line:20] INFO test_add1 p1:4,p2:5,p3:9
+2017-12-21 15:50:30,219 Calc.py __init__ [line:12] INFO Calc init 
+2017-12-21 15:50:30,219 Calc.py add [line:16] INFO excute add 
+2017-12-21 15:50:30,219 Calc.py add [line:17] INFO param1:4,param2:5
+2017-12-21 15:50:30,219 TestJson.py test_add1 [line:20] INFO test_add1 p1:5,p2:6,p3:10
+2017-12-21 15:50:30,219 Calc.py __init__ [line:12] INFO Calc init 
+2017-12-21 15:50:30,219 Calc.py add [line:16] INFO excute add 
+2017-12-21 15:50:30,219 Calc.py add [line:17] INFO param1:5,param2:6
+2017-12-21 15:50:30,220 TestYaml.py test_add1 [line:20] INFO test_add1 p1:10,p2:10,r:20
+2017-12-21 15:50:30,220 Calc.py __init__ [line:12] INFO Calc init 
+2017-12-21 15:50:30,220 Calc.py add [line:16] INFO excute add 
+2017-12-21 15:50:30,220 Calc.py add [line:17] INFO param1:10,param2:10
+2017-12-21 15:50:30,220 TestYaml.py test_add1 [line:20] INFO test_add1 p1:20,p2:20,r:30
+2017-12-21 15:50:30,220 Calc.py __init__ [line:12] INFO Calc init 
+2017-12-21 15:50:30,220 Calc.py add [line:16] INFO excute add 
+2017-12-21 15:50:30,221 Calc.py add [line:17] INFO param1:20,param2:20
