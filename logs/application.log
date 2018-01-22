@@ -108,3 +108,27 @@
 2017-12-21 15:50:30,220 Calc.py __init__ [line:12] INFO Calc init 
 2017-12-21 15:50:30,220 Calc.py add [line:16] INFO excute add 
 2017-12-21 15:50:30,221 Calc.py add [line:17] INFO param1:20,param2:20
+2018-01-22 09:45:06,699 TestJson.py test_add1 [line:20] INFO test_add1 p1:3,p2:4,p3:7
+2018-01-22 09:45:06,700 Calc.py __init__ [line:12] INFO Calc init 
+2018-01-22 09:45:06,701 Calc.py add [line:16] INFO excute add 
+2018-01-22 09:45:06,702 Calc.py add [line:17] INFO param1:3,param2:4
+2018-01-22 09:45:06,704 TestJson.py test_add1 [line:20] INFO test_add1 p1:4,p2:5,p3:9
+2018-01-22 09:45:06,705 Calc.py __init__ [line:12] INFO Calc init 
+2018-01-22 09:45:06,706 Calc.py add [line:16] INFO excute add 
+2018-01-22 09:45:06,707 Calc.py add [line:17] INFO param1:4,param2:5
+2018-01-22 09:45:06,709 TestJson.py test_add1 [line:20] INFO test_add1 p1:5,p2:6,p3:10
+2018-01-22 09:45:06,709 Calc.py __init__ [line:12] INFO Calc init 
+2018-01-22 09:45:06,709 Calc.py add [line:16] INFO excute add 
+2018-01-22 09:45:06,709 Calc.py add [line:17] INFO param1:5,param2:6
+2018-01-22 09:45:06,709 TestYaml.py test_add1 [line:20] INFO test_add1 p1:10,p2:10,r:20
+2018-01-22 09:45:06,709 Calc.py __init__ [line:12] INFO Calc init 
+2018-01-22 09:45:06,709 Calc.py add [line:16] INFO excute add 
+2018-01-22 09:45:06,719 Calc.py add [line:17] INFO param1:10,param2:10
+2018-01-22 09:45:06,719 TestYaml.py test_add1 [line:20] INFO test_add1 p1:10,p2:20,r:30
+2018-01-22 09:45:06,719 Calc.py __init__ [line:12] INFO Calc init 
+2018-01-22 09:45:06,719 Calc.py add [line:16] INFO excute add 
+2018-01-22 09:45:06,719 Calc.py add [line:17] INFO param1:10,param2:20
+2018-01-22 09:45:06,719 TestYaml.py test_add1 [line:20] INFO test_add1 p1:20,p2:20,r:30
+2018-01-22 09:45:06,719 Calc.py __init__ [line:12] INFO Calc init 
+2018-01-22 09:45:06,719 Calc.py add [line:16] INFO excute add 
+2018-01-22 09:45:06,719 Calc.py add [line:17] INFO param1:20,param2:20

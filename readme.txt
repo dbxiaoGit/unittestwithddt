@@ -28,4 +28,8 @@ PyYAML==3.12
 xlrd==1.1.0
 执行run_test.py即可
 
+使用Anaconda时需使用
+%windir%\System32\cmd.exe "/K" C:\ProgramData\Anaconda3\Scripts\activate.bat C:\ProgramData\Anaconda3
+中pip安装所需要的包
+
 excel部分后续再加
